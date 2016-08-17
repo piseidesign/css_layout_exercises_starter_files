@@ -1,0 +1,42 @@
+.container {
+  width: 800px;
+  margin: auto;
+}
+.row {
+  /*clear: both;*/
+}
+.row-top {
+  height: 200px;
+}
+.row-bottom {
+  height: 300px;
+}
+.box-half {
+  width: 50%;
+  height: 100%;
+  float: left;
+  border: 1px solid #000000;
+}
+.box-one-third {
+  width: 33.33%;
+  height: 100%;
+  float: left;
+  border: 1px solid #000000;
+}
+
+/*colors*/
+.green {
+  background-color: #40780F;
+}
+.blue {
+  background-color: #0054F8;
+}
+.grey {
+  background-color: #808080;
+}
+.black {
+  background-color: #000000;
+}
+.yellow {
+  background-color: #F2A43D;
+}
