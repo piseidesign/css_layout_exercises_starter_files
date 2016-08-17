@@ -10,3 +10,18 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+.pull-left {
+  float: left;
+}
+.pull-right {
+  float: right;
+}
+img.pull-left {
+  margin: 15px 15px 15px 0;
+}
+img.pull-right {
+  padding-left: 15px;
+}
+img {
+  width: 300px;
+}
